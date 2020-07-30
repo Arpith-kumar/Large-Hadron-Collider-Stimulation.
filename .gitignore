@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.mp4
 
 *.dll
 stb_image.h
