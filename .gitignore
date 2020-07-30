@@ -9,8 +9,9 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.dll
 
+*.dll
+stb_image.h
 *.vcxproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
